@@ -22,35 +22,48 @@ Tugas/
 │   │   ├── praktikum4.py            # Menentukan Status Kelulusan (if-else)
 │   │   ├── praktikum5.py            # Menentukan Grade Mahasiswa (if-elif-else)
 │   │   └── praktikum6.py            # Menghitung Diskon Belanja (if-else)
-│   └── Pengulangan/
-│       ├── praktikum7.py            # Menampilkan Angka 1 s/d 5 (for loop)
-│       ├── praktikum8.py            # Menghitung Penjumlahan Angka 1 s/d 10
-│       └── praktikum9.py            # Menampilkan Bilangan Genap (range step)
+│   ├── Pengulangan/
+│   │   ├── praktikum7.py            # Menampilkan Angka 1 s/d 5 (for loop)
+│   │   ├── praktikum8.py            # Menghitung Penjumlahan Angka 1 s/d 10
+│   │   └── praktikum9.py            # Menampilkan Bilangan Genap (range step)
+│   └── tipe_data/
+│       ├── praktikum1.py            # Profil Mahasiswa (Mendefinisikan Variabel)
+│       ├── praktikum2.py            # Input dan Konversi Tipe Data
+│       ├── praktikum3.py            # Total Belanja (float & int)
+│       ├── praktikum4.py            # Menggabungkan Teks (String Concatenation)
+│       └── praktikum5.py            # Mengatasi Kesalahan Tipe Data (TypeError)
 │
-└── studi_kasus/                     # Pemecahan masalah studi kasus lengkap (IPO terstruktur)
-    ├── urutan/                      # Studi Kasus - Runtunan / Sequence (6 Soal)
-    │   ├── soal1.py                 # Luas Permukaan & Volume Balok
-    │   ├── soal2.py                 # Kasir Kantin (Nasi Goreng & Es Teh)
-    │   ├── soal3.py                 # Konversi Suhu Celsius ke Fahrenheit & Kelvin
-    │   ├── soal4.py                 # Perhitungan Nilai Akhir Mahasiswa (20%, 30%, 50%)
-    │   ├── soal5.py                 # Slip Gaji Bersih Karyawan
-    │   └── soal6.py                 # Transaksi Toko Online (Termasuk Ongkos Kirim)
-    │
-    ├── keputusan/                   # Studi Kasus - Decision / Percabangan (6 Soal)
-    │   ├── soal1.py                 # Penentuan Kelulusan (Batas Nilai >= 60)
-    │   ├── soal2.py                 # Diskon Toko 10% (Belanja >= Rp100.000)
-    │   ├── soal3.py                 # Sistem Tarif Parkir Kendaraan (Bertingkat & Pembulatan)
-    │   ├── soal4.py                 # Penentuan Grade Nilai Mahasiswa (A, B, C, D, E)
-    │   ├── soal5.py                 # Sistem Denda Keterlambatan Buku Perpustakaan
-    │   └── soal6.py                 # Sistem Autentikasi Login (Operator Logika AND)
-    │
-    └── perulangan/                  # Studi Kasus - Iteration / Perulangan (6 Soal)
-        ├── soal1.py                 # Menampilkan Angka 1 Sampai 10
-        ├── soal2.py                 # Menghitung Akumulasi Deret Angka 1 Sampai 100
-        ├── soal3.py                 # Menampilkan Bilangan Genap 2 Sampai 20
-        ├── soal4.py                 # Input & Pengolahan Rata-Rata Nilai 5 Mahasiswa
-        ├── soal5.py                 # Tabel Perkalian Angka 7 (1 s/d 10)
-        └── soal6.py                 # Akumulasi 10 Transaksi Penjualan Toko
+├── studi_kasus/                     # Pemecahan masalah studi kasus lengkap (IPO terstruktur)
+│   ├── urutan/                      # Studi Kasus - Runtunan / Sequence (6 Soal)
+│   │   ├── soal1.py                 # Luas Permukaan & Volume Balok
+│   │   ├── soal2.py                 # Kasir Kantin (Nasi Goreng & Es Teh)
+│   │   ├── soal3.py                 # Konversi Suhu Celsius ke Fahrenheit & Kelvin
+│   │   ├── soal4.py                 # Perhitungan Nilai Akhir Mahasiswa (20%, 30%, 50%)
+│   │   ├── soal5.py                 # Slip Gaji Bersih Karyawan
+│   │   └── soal6.py                 # Transaksi Toko Online (Termasuk Ongkos Kirim)
+│   ├── keputusan/                   # Studi Kasus - Decision / Percabangan (6 Soal)
+│   │   ├── soal1.py                 # Penentuan Kelulusan (Batas Nilai >= 60)
+│   │   ├── soal2.py                 # Diskon Toko 10% (Belanja >= Rp100.000)
+│   │   ├── soal3.py                 # Sistem Tarif Parkir Kendaraan (Bertingkat & Pembulatan)
+│   │   ├── soal4.py                 # Penentuan Grade Nilai Mahasiswa (A, B, C, D, E)
+│   │   ├── soal5.py                 # Sistem Denda Keterlambatan Buku Perpustakaan
+│   │   └── soal6.py                 # Sistem Autentikasi Login (Operator Logika AND)
+│   └── perulangan/                  # Studi Kasus - Iteration / Perulangan (6 Soal)
+│       ├── soal1.py                 # Menampilkan Angka 1 Sampai 10
+│       ├── soal2.py                 # Menghitung Akumulasi Deret Angka 1 Sampai 100
+│       ├── soal3.py                 # Menampilkan Bilangan Genap 2 Sampai 20
+│       ├── soal4.py                 # Input & Pengolahan Rata-Rata Nilai 5 Mahasiswa
+│       ├── soal5.py                 # Tabel Perkalian Angka 7 (1 s/d 10)
+│       └── soal6.py                 # Akumulasi 10 Transaksi Penjualan Toko
+│
+└── latihan_mandiri/                 # Latihan mandiri per pertemuan
+    └── tipe_data/                   # Pertemuan 04 - Tipe Data dan Variabel (6 Latihan)
+        ├── latihan1.py              # Empat Variabel Barang dengan Tipe Data Tepat
+        ├── latihan2.py              # Luas Persegi Panjang (float)
+        ├── latihan3.py              # Dua Angka dan Empat Operasi Aritmetika
+        ├── latihan4.py              # Perbedaan int 25 dan str '25'
+        ├── latihan5.py              # Perbaikan Kode TypeError (angka + 5)
+        └── latihan6.py              # Sistem Data Akademik Mahasiswa + Alasan Tipe Data
 ```
 
 ---
