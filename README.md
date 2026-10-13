@@ -1,4 +1,4 @@
-# 📚 Tugas Kuliah: Dasar Pemrograman Python
+# Tugas Kuliah: Dasar Pemrograman Python
 
 Repositori ini berisi kumpulan tugas praktikum dan studi kasus mata kuliah **Dasar Pemrograman (Algoritma dan Pemrograman)** menggunakan bahasa pemrograman **Python 3**.
 
@@ -9,7 +9,7 @@ Project ini mencakup 3 pilar utama struktur dasar algoritma pemrograman:
 
 ---
 
-## 🗂️ Struktur Direktori
+## Struktur Direktori
 
 ```text
 Tugas/
@@ -55,7 +55,7 @@ Tugas/
 
 ---
 
-## 📖 Ringkasan Studi Kasus
+## Ringkasan Studi Kasus
 
 Setiap file di dalam folder `studi_kasus/` dirancang dengan pendekatan **IPO (Input - Process - Output)** yang rapi dan mudah dipahami:
 
@@ -85,7 +85,7 @@ Setiap file di dalam folder `studi_kasus/` dirancang dengan pendekatan **IPO (In
 
 ---
 
-## 🚀 Cara Menjalankan Program
+## Cara Menjalankan Program
 
 ### Prasyarat
 - Pastikan **Python 3** sudah terinstal pada komputer Anda. Periksa versi dengan perintah:
@@ -112,6 +112,6 @@ python3 praktikum/Runtunan/praktikum1.py
 
 ---
 
-## 🛠️ Catatan Pemrograman
+## Catatan Pemrograman
 - Seluruh kode ditulis secara modular dan self-explanatory dengan komentar berbahasa Indonesia.
 - Menggunakan fungsi bawaan standar Python tanpa memerlukan instalasi library pihak ketiga (*zero external dependencies*).
