@@ -26,12 +26,18 @@ Tugas/
 │   │   ├── praktikum7.py            # Menampilkan Angka 1 s/d 5 (for loop)
 │   │   ├── praktikum8.py            # Menghitung Penjumlahan Angka 1 s/d 10
 │   │   └── praktikum9.py            # Menampilkan Bilangan Genap (range step)
-│   └── tipe_data/
-│       ├── praktikum1.py            # Profil Mahasiswa (Mendefinisikan Variabel)
-│       ├── praktikum2.py            # Input dan Konversi Tipe Data
-│       ├── praktikum3.py            # Total Belanja (float & int)
-│       ├── praktikum4.py            # Menggabungkan Teks (String Concatenation)
-│       └── praktikum5.py            # Mengatasi Kesalahan Tipe Data (TypeError)
+│   ├── tipe_data/
+│   │   ├── praktikum1.py            # Profil Mahasiswa (Mendefinisikan Variabel)
+│   │   ├── praktikum2.py            # Input dan Konversi Tipe Data
+│   │   ├── praktikum3.py            # Total Belanja (float & int)
+│   │   ├── praktikum4.py            # Menggabungkan Teks (String Concatenation)
+│   │   └── praktikum5.py            # Mengatasi Kesalahan Tipe Data (TypeError)
+│   └── operator_aritmatika/
+│       ├── praktikum1.py            # Kalkulator Empat Operasi (+, -, *, /)
+│       ├── praktikum2.py            # Membagi Barang Sama Rata (//, %)
+│       ├── praktikum3.py            # Menghitung Pangkat (**)
+│       ├── praktikum4.py            # Luas dan Keliling Persegi Panjang
+│       └── praktikum5.py            # Menghitung Nilai Akhir Berbobot
 │
 ├── studi_kasus/                     # Pemecahan masalah studi kasus lengkap (IPO terstruktur)
 │   ├── urutan/                      # Studi Kasus - Runtunan / Sequence (6 Soal)
@@ -57,13 +63,21 @@ Tugas/
 │       └── soal6.py                 # Akumulasi 10 Transaksi Penjualan Toko
 │
 └── latihan_mandiri/                 # Latihan mandiri per pertemuan
-    └── tipe_data/                   # Pertemuan 04 - Tipe Data dan Variabel (6 Latihan)
-        ├── latihan1.py              # Empat Variabel Barang dengan Tipe Data Tepat
-        ├── latihan2.py              # Luas Persegi Panjang (float)
-        ├── latihan3.py              # Dua Angka dan Empat Operasi Aritmetika
-        ├── latihan4.py              # Perbedaan int 25 dan str '25'
-        ├── latihan5.py              # Perbaikan Kode TypeError (angka + 5)
-        └── latihan6.py              # Sistem Data Akademik Mahasiswa + Alasan Tipe Data
+    ├── tipe_data/                   # Pertemuan 04 - Tipe Data dan Variabel (6 Latihan)
+    │   ├── latihan1.py              # Empat Variabel Barang dengan Tipe Data Tepat
+    │   ├── latihan2.py              # Luas Persegi Panjang (float)
+    │   ├── latihan3.py              # Dua Angka dan Empat Operasi Aritmetika
+    │   ├── latihan4.py              # Perbedaan int 25 dan str '25'
+    │   ├── latihan5.py              # Perbaikan Kode TypeError (angka + 5)
+    │   └── latihan6.py              # Sistem Data Akademik Mahasiswa + Alasan Tipe Data
+    └── operator_aritmatika/         # Pertemuan 05 - Operator Aritmatika (7 Latihan)
+        ├── latihan1.py              # Enam Operasi Aritmatika + Validasi Pembagi Nol
+        ├── latihan2.py              # Konversi Detik ke Jam:Menit:Detik (//, %)
+        ├── latihan3.py              # Luas Segitiga (0.5 * alas * tinggi)
+        ├── latihan4.py              # Total Belanja + Diskon 10%
+        ├── latihan5.py              # Verifikasi Ekspresi Aritmatika (Precedence)
+        ├── latihan6.py              # Rata-rata Tiga Nilai + Pseudocode & Flowchart
+        └── latihan7.py              # Nilai Akhir + Selisih UAS - Tugas
 ```
 
 ---
