@@ -78,6 +78,23 @@ Tugas/
         ├── latihan5.py              # Verifikasi Ekspresi Aritmatika (Precedence)
         ├── latihan6.py              # Rata-rata Tiga Nilai + Pseudocode & Flowchart
         └── latihan7.py              # Nilai Akhir + Selisih UAS - Tugas
+│
+├── praktikum_pertemuan06/               # Pertemuan 06 - Sequence, Selection, Looping Terpadu
+│   ├── sequence/
+│   │   ├── A1_gaji_bersih.py            # Perhitungan Gaji Kotor dan Gaji Bersih
+│   │   ├── A2_konversi_suhu.py          # Konversi Celsius ke Fahrenheit dan Kelvin
+│   │   └── A3_belanja_pajak.py          # Rincian Belanja Setelah Pajak 11%
+│   ├── selection/
+│   │   ├── B1_kategori_nilai.py         # Kategori Nilai Mahasiswa (A-E) + Validasi
+│   │   ├── B2_tarif_parkir.py           # Tarif Parkir Bertingkat
+│   │   └── B3_beasiswa.py              # Kelayakan Beasiswa (IPK + Status Aktif)
+│   ├── looping/
+│   │   ├── C1_rekap_nilai.py            # Total dan Rata-rata Nilai N Mahasiswa
+│   │   ├── C2_deret_bilangan.py         # Deret Bilangan 1-N dan Jumlahnya
+│   │   └── C3_menu_perhitungan.py       # Menu Transaksi Berulang (while loop)
+│   └── studi_kasus/
+│       ├── kasir_minimarket.py          # Sistem Kasir Mini Market (Terpadu)
+│       └── rekap_nilai_kelas.py         # Sistem Rekap Nilai Kelas (Terpadu)
 ```
 
 ---
