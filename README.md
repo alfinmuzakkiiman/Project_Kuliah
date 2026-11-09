@@ -95,6 +95,9 @@ Tugas/
 │   └── studi_kasus/
 │       ├── kasir_minimarket.py          # Sistem Kasir Mini Market (Terpadu)
 │       └── rekap_nilai_kelas.py         # Sistem Rekap Nilai Kelas (Terpadu)
+│
+├── persiapan_uts/                       # Persiapan UTS - Take Home
+│   └── toko_atk.py                     # Aplikasi Toko ATK Sekolah (Sequence, Selection, Looping)
 ```
 
 ---
