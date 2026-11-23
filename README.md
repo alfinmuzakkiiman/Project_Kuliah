@@ -98,6 +98,23 @@ Tugas/
 │
 ├── persiapan_uts/                       # Persiapan UTS - Take Home
 │   └── toko_atk.py                     # Aplikasi Toko ATK Sekolah (Sequence, Selection, Looping)
+│
+└── praktikum_pertemuan10/               # Pertemuan 10 - Struktur Perulangan (Loop) Modular
+    ├── praktikum_rata_rata_mahasiswa/   # Praktikum Utama - Rata-rata Nilai Mahasiswa
+    │   ├── main.py                      # Titik awal program
+    │   ├── controllers.py               # Alur proses, loop, dan validasi input
+    │   ├── models.py                    # Perhitungan rata-rata dengan akumulator
+    │   └── views.py                     # Input dan output tampilan nilai mahasiswa
+    ├── tugas1_transaksi_penjualan/      # Tugas 1 - Pengolahan Data Transaksi Penjualan
+    │   ├── main.py                      # Titik awal program
+    │   ├── controllers.py               # Alur proses, loop, dan validasi transaksi
+    │   ├── models.py                    # Perhitungan total pendapatan dan rata-rata
+    │   └── views.py                     # Input dan rekap transaksi penjualan
+    └── tugas2_pengeluaran_harian/       # Tugas 2 - Pengolahan Data Pengeluaran Harian
+        ├── main.py                      # Titik awal program
+        ├── controllers.py               # Alur proses, loop, dan validasi pengeluaran
+        ├── models.py                    # Perhitungan total dan rata-rata pengeluaran harian
+        └── views.py                     # Input dan rekap pengeluaran harian
 ```
 
 ---
